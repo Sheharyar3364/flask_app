@@ -11,4 +11,3 @@ if __name__ == '__main__':
         db.create_all()
     app.run(debug=True)
 
-#postgresql://strube_database_user:7TDGbsJgseZGCkNkQeEl1np1jaD7BvPw@dpg-clag1bhm6hds739prk10-a.oregon-postgres.render.com/strube_database

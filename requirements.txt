@@ -11,4 +11,4 @@ MarkupSafe==2.1.1
 psycopg2-binary==2.9.1
 SQLAlchemy==1.4.46
 Werkzeug==2.2.2
-zipp==3.17.0
+zipp==3.7.0  # Use a compatible version of zipp
